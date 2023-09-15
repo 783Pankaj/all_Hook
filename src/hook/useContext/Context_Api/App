@@ -1,0 +1,16 @@
+// import { createContext } from 'react';
+// import './App.css';
+// import ComC from './hook/useContext/ComC';
+
+// export const FirstName = createContext()
+// function App() {
+//   return (
+//     <div className="App">
+//     <FirstName.Provider value={"pankj pal"}>
+//     <ComC />
+//     </FirstName.Provider>
+//       </div>
+//   );
+// }
+
+// export default App;

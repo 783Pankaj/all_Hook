@@ -25,7 +25,7 @@ const Error_Handling_loding = () => {
     }
     return (
         <div>
-            <div>
+            <div style={{display:'flex' ,  flexWrap: 'wrap'}}>
                 {
                     apiData.map((val) => {
                         const { id, login, type,avatar_url } = val

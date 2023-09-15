@@ -1,11 +1,10 @@
 import './App.css';
-import Error_Handling_loding from './hook/useEffect/Error_Handling_loding';
+import UseCallback_hook from './hook/useCallback/UseCallback_hook';
 
 function App() {
-  
   return (
     <div className="App">
-       <Error_Handling_loding />
+       <UseCallback_hook />
       </div>
   );
 }
